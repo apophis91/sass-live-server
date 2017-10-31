@@ -1,0 +1,16 @@
+{
+  "name": "sass-live-server",
+  "version": "0.0.1",
+  "description": "watch sass",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "RAR",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
